@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oXPE4PLdP3XabGUqsZRPy7zux+KSjHc96FnaV1IkDi+AIS2D3rjvpVGlYZtLXy1JDzxPjrkc0QAt2R1H20j5hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\JuegoPuzzle\\Puzzle.Libary\\Puzzle.Libary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

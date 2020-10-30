@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\obj\Debug\netstandard2.0\Puzzle.Libary.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\obj\Debug\netstandard2.0\Puzzle.Libary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\obj\Debug\netstandard2.0\Puzzle.Libary.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\obj\Debug\netstandard2.0\Puzzle.Libary.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\bin\Debug\netstandard2.0\Puzzle.Libary.deps.json
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\bin\Debug\netstandard2.0\Puzzle.Libary.dll
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\bin\Debug\netstandard2.0\Puzzle.Libary.pdb
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\obj\Debug\netstandard2.0\Puzzle.Libary.dll
+C:\Users\LENOVO\Desktop\JuegoPuzzle\Puzzle.Libary\obj\Debug\netstandard2.0\Puzzle.Libary.pdb
